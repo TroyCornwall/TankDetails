@@ -6334,5 +6334,29 @@
     },
     "ATOLow": true,
     "ATOHigh": false
+  },
+  {
+    "Timestamp": "2022-01-31T11:15:00.9472104+13:00",
+    "ApexName": "REEF_1304",
+    "Temp": 26.1,
+    "Ph": 8.05,
+    "Alk": 8.36,
+    "Calc": 490.0,
+    "Mg": 1244.0,
+    "ATO": {
+      "status": [
+        "AOF",
+        "",
+        "OK",
+        ""
+      ],
+      "name": "ATO",
+      "gid": "",
+      "type": "24v",
+      "ID": 12,
+      "did": "3_1"
+    },
+    "ATOLow": true,
+    "ATOHigh": false
   }
 ]
