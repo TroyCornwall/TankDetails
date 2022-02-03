@@ -1129,6 +1129,23 @@
   {
     "Timestamp": "2022-02-04T05:00:02.686191+13:00",
     "ApexName": "REEF_1304",
-    "Ph": 8.06
+    "Temp": 26.1,
+    "Ph": 8.06,
+    "Alk": 8.65,
+    "Calc": 521.0,
+    "Mg": 1234.0,
+    "ATOStatus": [
+      "AOF",
+      "",
+      "OK",
+      ""
+    ],
+    "ATOLow": true,
+    "ATOHigh": false
+  },
+  {
+    "Timestamp": "2022-02-04T05:10:02.8860542+13:00",
+    "ApexName": "REEF_1304",
+    "Temp": 26.0
   }
 ]
