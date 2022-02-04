@@ -1,148 +1,5 @@
 [
   {
-    "Timestamp": "2022-02-01T10:00:00.9353863+13:00",
-    "ApexName": "REEF_1304",
-    "Temp": 25.8,
-    "Ph": 8.0,
-    "Alk": 8.47,
-    "Calc": 510.0,
-    "Mg": 1225.0,
-    "ATOLow": true,
-    "ATOHigh": true
-  },
-  {
-    "Timestamp": "2022-02-01T10:15:00.922218+13:00",
-    "ApexName": "REEF_1304",
-    "Temp": 26.1,
-    "Ph": 8.01,
-    "Alk": 8.47,
-    "Calc": 510.0,
-    "Mg": 1225.0,
-    "ATOLow": true,
-    "ATOHigh": true
-  },
-  {
-    "Timestamp": "2022-02-01T10:30:00.9542607+13:00",
-    "ApexName": "REEF_1304",
-    "Temp": 26.1,
-    "Ph": 8.01,
-    "Alk": 8.47,
-    "Calc": 510.0,
-    "Mg": 1225.0,
-    "ATOLow": true,
-    "ATOHigh": true
-  },
-  {
-    "Timestamp": "2022-02-01T10:45:00.9650401+13:00",
-    "ApexName": "REEF_1304",
-    "Temp": 26.0,
-    "Ph": 8.02,
-    "Alk": 8.47,
-    "Calc": 510.0,
-    "Mg": 1225.0,
-    "ATOLow": true,
-    "ATOHigh": true
-  },
-  {
-    "Timestamp": "2022-02-01T11:00:00.9427119+13:00",
-    "ApexName": "REEF_1304",
-    "Temp": 25.9,
-    "Ph": 8.03,
-    "Alk": 8.47,
-    "Calc": 510.0,
-    "Mg": 1225.0,
-    "ATOLow": true,
-    "ATOHigh": true
-  },
-  {
-    "Timestamp": "2022-02-01T11:15:01.028294+13:00",
-    "ApexName": "REEF_1304",
-    "Temp": 25.8,
-    "Ph": 8.04,
-    "Alk": 8.47,
-    "Calc": 510.0,
-    "Mg": 1225.0,
-    "ATOLow": true,
-    "ATOHigh": true
-  },
-  {
-    "Timestamp": "2022-02-01T11:30:01.0175749+13:00",
-    "ApexName": "REEF_1304",
-    "Temp": 25.8,
-    "Ph": 8.05,
-    "Alk": 8.47,
-    "Calc": 510.0,
-    "Mg": 1225.0,
-    "ATOLow": true,
-    "ATOHigh": true
-  },
-  {
-    "Timestamp": "2022-02-01T11:45:00.9419909+13:00",
-    "ApexName": "REEF_1304",
-    "Temp": 25.7,
-    "Ph": 8.05,
-    "Alk": 8.47,
-    "Calc": 510.0,
-    "Mg": 1225.0,
-    "ATOLow": true,
-    "ATOHigh": true
-  },
-  {
-    "Timestamp": "2022-02-01T12:00:00.9373232+13:00",
-    "ApexName": "REEF_1304",
-    "Temp": 25.7,
-    "Ph": 8.06,
-    "Alk": 8.47,
-    "Calc": 510.0,
-    "Mg": 1225.0,
-    "ATOLow": true,
-    "ATOHigh": false
-  },
-  {
-    "Timestamp": "2022-02-01T12:15:00.9262059+13:00",
-    "ApexName": "REEF_1304",
-    "Temp": 25.7,
-    "Ph": 8.07,
-    "Alk": 8.47,
-    "Calc": 522.0,
-    "Mg": 1226.0,
-    "ATOLow": true,
-    "ATOHigh": false
-  },
-  {
-    "Timestamp": "2022-02-01T12:30:00.9234892+13:00",
-    "ApexName": "REEF_1304",
-    "Temp": 25.6,
-    "Ph": 8.07,
-    "Alk": 8.54,
-    "Calc": 522.0,
-    "Mg": 1226.0,
-    "ATOLow": true,
-    "ATOHigh": false
-  },
-  {
-    "Timestamp": "2022-02-01T12:45:00.959377+13:00",
-    "ApexName": "REEF_1304",
-    "Temp": 25.6,
-    "Ph": 8.08,
-    "Alk": 8.54,
-    "Calc": 522.0,
-    "Mg": 1226.0,
-    "ATOLow": true,
-    "ATOHigh": false
-  },
-  {
-    "Timestamp": "2022-02-01T13:00:01.0478178+13:00",
-    "ApexName": "REEF_1304",
-    "Temp": 25.5,
-    "Ph": 8.09,
-    "Alk": 8.54,
-    "Calc": 522.0,
-    "Mg": 1226.0,
-    "ATOLow": true,
-    "ATOHigh": false
-  },
-  {
     "Timestamp": "2022-02-03T16:40:25.3837278+13:00",
     "ApexName": "REEF_1304",
     "Temp": 25.7,
@@ -1451,5 +1308,21 @@
   {
     "Timestamp": "2022-02-04T09:54:31.0676719+13:00",
     "ApexName": "REEF_1304"
+  },
+  {
+    "Timestamp": "2022-02-05T01:00:02.6920986+13:00",
+    "ApexName": "REEF_1304",
+    "Temp": 26.1,
+    "Ph": 7.99,
+    "Alk": 8.74,
+    "Calc": 523.0,
+    "Mg": 1236.0,
+    "ATOStatus": [
+      "OFF",
+      "",
+      "Werr",
+      ""
+    ],
+    "ATOLow": false
   }
 ]
