@@ -1870,5 +1870,17 @@
     "Timestamp": "2022-02-05T20:00:02.6818392+13:00",
     "ApexName": "REEF_1304",
     "Ph": 7.99
+  },
+  {
+    "Timestamp": "2022-02-05T20:10:02.6596631+13:00",
+    "ApexName": "REEF_1304",
+    "Ph": 7.98,
+    "ATOStatus": [
+      "AON",
+      "",
+      "OK",
+      ""
+    ],
+    "ATOLow": false
   }
 ]
