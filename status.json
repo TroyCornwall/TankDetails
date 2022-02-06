@@ -1,22 +1,5 @@
 [
   {
-    "Timestamp": "2022-02-04T08:00:02.7565353+13:00",
-    "ApexName": "REEF_1304",
-    "Temp": 25.6,
-    "Ph": 8.06,
-    "Alk": 8.73,
-    "Calc": 521.0,
-    "Mg": 1234.0,
-    "ATOStatus": [
-      "AOF",
-      "",
-      "OK",
-      ""
-    ],
-    "ATOLow": true,
-    "ATOHigh": false
-  },
-  {
     "Timestamp": "2022-02-04T08:10:03.7066243+13:00",
     "ApexName": "REEF_1304",
     "Temp": 25.6,
@@ -1822,5 +1805,9 @@
     "Timestamp": "2022-02-07T07:50:02.1986191+13:00",
     "ApexName": "REEF_1304",
     "Temp": 25.7
+  },
+  {
+    "Timestamp": "2022-02-07T08:00:02.3631726+13:00",
+    "ApexName": "REEF_1304"
   }
 ]
