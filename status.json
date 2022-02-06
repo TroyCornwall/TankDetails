@@ -2473,5 +2473,17 @@
     "ApexName": "REEF_1304",
     "Temp": 25.9,
     "Ph": 7.94
+  },
+  {
+    "Timestamp": "2022-02-06T15:00:02.5649587+13:00",
+    "ApexName": "REEF_1304",
+    "Temp": 25.8,
+    "ATOStatus": [
+      "AON",
+      "",
+      "OK",
+      ""
+    ],
+    "ATOLow": false
   }
 ]
