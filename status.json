@@ -1888,5 +1888,19 @@
     "Temp": 25.8,
     "Ph": 8.06,
     "ATOHigh": true
+  },
+  {
+    "Timestamp": "2022-02-07T18:40:02.2818868+13:00",
+    "ApexName": "REEF_1304",
+    "Temp": 25.9,
+    "Ph": 8.07,
+    "ATOStatus": [
+      "AON",
+      "",
+      "OK",
+      ""
+    ],
+    "ATOLow": false,
+    "ATOHigh": false
   }
 ]
