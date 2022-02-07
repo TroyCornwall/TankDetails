@@ -1881,5 +1881,12 @@
     "ApexName": "REEF_1304",
     "Temp": 25.7,
     "Alk": 8.67
+  },
+  {
+    "Timestamp": "2022-02-07T18:30:02.5552795+13:00",
+    "ApexName": "REEF_1304",
+    "Temp": 25.8,
+    "Ph": 8.06,
+    "ATOHigh": true
   }
 ]
