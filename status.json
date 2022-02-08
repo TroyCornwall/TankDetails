@@ -1,13 +1,5 @@
 [
   {
-    "Timestamp": "2022-02-06T12:20:02.5133775+13:00",
-    "ApexName": "REEF_1304",
-    "Temp": 25.9,
-    "Alk": 8.86,
-    "Calc": 484.0,
-    "Mg": 1237.0
-  },
-  {
     "Timestamp": "2022-02-06T12:30:02.5929122+13:00",
     "ApexName": "REEF_1304",
     "Temp": 25.8,
@@ -2167,5 +2159,21 @@
     "ApexName": "REEF_1304",
     "Ph": 7.92,
     "ATOHigh": true
+  },
+  {
+    "Timestamp": "2022-02-09T12:20:10.8056709+13:00",
+    "ApexName": "REEF_1304",
+    "Temp": 25.8,
+    "Ph": 7.93,
+    "Alk": 8.32,
+    "Calc": 511.0,
+    "Mg": 1237.0,
+    "ATOStatus": [
+      "AON",
+      "",
+      "OK",
+      ""
+    ],
+    "ATOHigh": false
   }
 ]
