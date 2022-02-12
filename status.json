@@ -1,16 +1,5 @@
 [
   {
-    "Timestamp": "2022-02-09T13:20:10.8296148+13:00",
-    "ApexName": "REEF_1304",
-    "ATOStatus": [
-      "AON",
-      "",
-      "OK",
-      ""
-    ],
-    "ATOLow": false
-  },
-  {
     "Timestamp": "2022-02-09T13:30:10.7294982+13:00",
     "ApexName": "REEF_1304"
   },
@@ -1946,5 +1935,16 @@
     "Timestamp": "2022-02-12T13:10:10.4417685+13:00",
     "ApexName": "REEF_1304",
     "Temp": 25.9
+  },
+  {
+    "Timestamp": "2022-02-12T13:20:10.5353793+13:00",
+    "ApexName": "REEF_1304",
+    "Temp": 26.0,
+    "ATOStatus": [
+      "OFF",
+      "",
+      "Werr",
+      ""
+    ]
   }
 ]
