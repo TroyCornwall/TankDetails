@@ -3909,5 +3909,16 @@
       ""
     ],
     "ATOLow": true
+  },
+  {
+    "Timestamp": "2022-02-25T22:18:52.1759939+13:00",
+    "ApexName": "REEF_1304",
+    "Temp": 25.7,
+    "ATOStatus": [
+      "AOF",
+      "",
+      "OK",
+      ""
+    ]
   }
 ]
