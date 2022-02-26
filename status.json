@@ -1,10 +1,5 @@
 [
   {
-    "Timestamp": "2022-02-24T08:49:00.4851696+13:00",
-    "ApexName": "REEF_1304",
-    "ATOLow": true
-  },
-  {
     "Timestamp": "2022-02-24T08:50:02.5631876+13:00",
     "ApexName": "REEF_1304",
     "ATOHigh": true
@@ -3859,5 +3854,10 @@
   {
     "Timestamp": "2022-02-27T08:40:02.566709+13:00",
     "ApexName": "REEF_1304"
+  },
+  {
+    "Timestamp": "2022-02-27T08:49:00.6098058+13:00",
+    "ApexName": "REEF_1304",
+    "Temp": 25.9
   }
 ]
