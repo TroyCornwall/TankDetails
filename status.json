@@ -1,9 +1,5 @@
 [
   {
-    "Timestamp": "2022-02-27T03:39:00.624038+13:00",
-    "ApexName": "REEF_1304"
-  },
-  {
     "Timestamp": "2022-02-27T03:40:02.5830436+13:00",
     "ApexName": "REEF_1304"
   },
@@ -3993,6 +3989,17 @@
     "ApexName": "REEF_1304",
     "ATOStatus": [
       "AON",
+      "",
+      "OK",
+      ""
+    ]
+  },
+  {
+    "Timestamp": "2022-03-02T03:39:00.5637791+13:00",
+    "ApexName": "REEF_1304",
+    "Temp": 26.0,
+    "ATOStatus": [
+      "AOF",
       "",
       "OK",
       ""
