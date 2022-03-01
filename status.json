@@ -3995,5 +3995,10 @@
     "ApexName": "REEF_1304",
     "Temp": 25.5,
     "ATOLow": true
+  },
+  {
+    "Timestamp": "2022-03-02T09:18:52.1988755+13:00",
+    "ApexName": "REEF_1304",
+    "ATOHigh": true
   }
 ]
