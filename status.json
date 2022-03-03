@@ -3953,5 +3953,10 @@
     "ApexName": "REEF_1304",
     "Temp": 25.9,
     "Ph": 8.01
+  },
+  {
+    "Timestamp": "2022-03-04T00:40:02.6381694+13:00",
+    "ApexName": "REEF_1304",
+    "ATOLow": false
   }
 ]
