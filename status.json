@@ -4118,6 +4118,24 @@
   },
   {
     "Timestamp": "2022-03-04T17:41:27.5193486+13:00",
-    "ApexName": "REEF_1304"
+    "ApexName": "REEF_1304",
+    "Temp": 25.8,
+    "Ph": 8.01,
+    "Alk": 7.67,
+    "Calc": 504.0,
+    "Mg": 1268.0,
+    "ATOStatus": [
+      "AOF",
+      "",
+      "OK",
+      ""
+    ],
+    "ATOLow": true,
+    "ATOHigh": true
+  },
+  {
+    "Timestamp": "2022-03-04T17:42:08.3433023+13:00",
+    "ApexName": "REEF_1304",
+    "Ph": 8.0
   }
 ]
