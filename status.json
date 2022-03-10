@@ -1,19 +1,5 @@
 [
   {
-    "Timestamp": "2022-03-07T14:49:00.810824+13:00",
-    "ApexName": "REEF_1304",
-    "ATOStatus": [
-      "AOF",
-      "",
-      "OK",
-      ""
-    ]
-  },
-  {
-    "Timestamp": "2022-03-07T14:50:02.6100537+13:00",
-    "ApexName": "REEF_1304"
-  },
-  {
     "Timestamp": "2022-03-07T14:59:00.6333701+13:00",
     "ApexName": "REEF_1304",
     "Temp": 26.0,
@@ -3471,5 +3457,10 @@
     "ApexName": "REEF_1304",
     "Temp": 25.8,
     "ATOHigh": true
+  },
+  {
+    "Timestamp": "2022-03-10T14:50:10.9075316+13:00",
+    "ApexName": "REEF_1304",
+    "Temp": 25.9
   }
 ]
