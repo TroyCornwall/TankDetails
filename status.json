@@ -1,14 +1,5 @@
 [
   {
-    "Timestamp": "2022-03-09T09:49:00.6560654+13:00",
-    "ApexName": "REEF_1304",
-    "Ph": 8.16
-  },
-  {
-    "Timestamp": "2022-03-09T09:50:02.5809509+13:00",
-    "ApexName": "REEF_1304"
-  },
-  {
     "Timestamp": "2022-03-09T09:59:00.5824207+13:00",
     "ApexName": "REEF_1304",
     "Alk": 7.43
@@ -2385,5 +2376,11 @@
     "ApexName": "REEF_1304",
     "Ph": 7.98,
     "ATOHigh": false
+  },
+  {
+    "Timestamp": "2022-03-12T09:50:11.0516655+13:00",
+    "ApexName": "REEF_1304",
+    "Ph": 7.99,
+    "ATOHigh": true
   }
 ]
