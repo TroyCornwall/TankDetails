@@ -1228,5 +1228,10 @@
     "Timestamp": "2022-03-20T10:20:11.0154977+13:00",
     "ApexName": "REEF_1304",
     "ATOHigh": true
+  },
+  {
+    "Timestamp": "2022-03-20T10:30:02.6102708+13:00",
+    "ApexName": "REEF_1304",
+    "ATOHigh": false
   }
 ]
