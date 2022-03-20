@@ -1228,5 +1228,12 @@
     "Ph": 8.39,
     "ATOLow": false,
     "ATOHigh": false
+  },
+  {
+    "Timestamp": "2022-03-20T20:10:02.6385313+13:00",
+    "ApexName": "REEF_1304",
+    "Ph": 8.35,
+    "ATOLow": true,
+    "ATOHigh": true
   }
 ]
