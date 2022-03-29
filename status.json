@@ -2225,5 +2225,10 @@
     "Ph": 8.05,
     "Alk": 7.95,
     "ATOHigh": true
+  },
+  {
+    "Timestamp": "2022-03-30T03:20:11.0195588+13:00",
+    "ApexName": "REEF_1304",
+    "ATOHigh": false
   }
 ]
